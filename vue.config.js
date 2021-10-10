@@ -1,0 +1,3 @@
+modulele.exports={
+    publicPath: '/ESCAFANDRA'
+}
